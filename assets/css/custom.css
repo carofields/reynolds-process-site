@@ -41,7 +41,8 @@ added to the button in the index html file as well.*/
   display: block;
   width: 50%;
   margin: 0 auto;
-  padding-bottom: 3% ;}
+  padding-bottom: 3% ;
+}
 
   p{
     font-size: 16pt;
@@ -54,3 +55,8 @@ added to the button in the index html file as well.*/
   img {
     border: 5px solid #555;
   }
+
+  .logo{
+    border:0px;
+  }
+
